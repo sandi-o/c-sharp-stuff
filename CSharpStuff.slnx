@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CountingPrime/CountingPrime.csproj" />
+  <Project Path="TwoSum/TwoSum.csproj" />
+</Solution>
